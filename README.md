@@ -1,28 +1,28 @@
-# computadas
+# Computadas - Vue 3
 
-This template should help get you started developing with Vue 3 in Vite.
+Esta aplicación es un proyecto de demostración simple enfocado en ilustrar el uso y comportamiento de las **propiedades computadas** en Vue 3.
 
-## Recommended IDE Setup
+## Propósito
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+El objetivo principal es mostrar cómo las propiedades computadas:
+- Calculan valores derivados basados en el estado reactivo.
+- Se diferencian de los métodos.
 
-## Customize configuration
+## Configuración del Entorno de Desarrollo
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Se recomienda [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (desactivar Vetur).
 
-## Project Setup
+Para más información sobre la configuración, consulte [Vite Configuration Reference](https://vite.dev/config/).
+
+## Instalación
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
 ```sh
 npm run dev
 ```
-
-### Compile and Minify for Production
 
 ```sh
 npm run build
